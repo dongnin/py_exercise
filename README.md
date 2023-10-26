@@ -1,2 +1,2 @@
 # py_exercise
-assesstments
+Statistics using python, assesstments
